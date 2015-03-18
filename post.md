@@ -132,7 +132,7 @@ Not all items can be priced as derivatives of others. Some need to be priced bas
 
 ![](http://theburningmonk.com/WordPress/wp-content/uploads/2015/03/forage_rel.png)
 
-To find out how scarcely available *Durian* and *Dragonfruit* are, we can use the following Cypher query:
+To find out how scarcely available *Durian* and *Dragonfruit* is, we can use the following Cypher query:
 
 ```
 MATCH	
