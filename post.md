@@ -144,7 +144,7 @@ RETURN fruit, tree, spot
 
 Again, we're simply pattern matching against our graph using the pattern `node<-[relationship1]-node-[relationship2]->node`. The expressive power of Cypher lies in the ability to take our relationship diagram above and translate it like-for-like into an executable query.
 
-You might also noticed that I'm not filtering on any of the nodes by type here. This is because I know those relationships exists only between the specified types of nodes, hence it's safe for me to omit them.
+You might also noticed that I'm not filtering any of the nodes by type here. This is because I know those relationships exists only between the specified types of nodes, hence it's safe for me to omit them.
 
 ![](http://theburningmonk.com/WordPress/wp-content/uploads/2015/03/fruits_graph.png)
 
