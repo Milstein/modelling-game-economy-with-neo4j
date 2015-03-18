@@ -158,7 +158,7 @@ Taking all these factors into account, we can set prices for *Durian* and *Drago
 
 ## Quest Progression
 
-Some quests require specific items to complete. For instance, an NPC might ask you to fetch an item from *Bob* in *Cambridge*, or find some feature undera bush somewhere, or catch a *Griffin* and get a *Griffin Egg* as loot.
+Some quests require specific items to complete. For instance, an NPC might ask you to fetch an item from *Bob* in *Cambridge*, or find some feature under a rock somewhere, or catch a *Griffin* and get a *Griffin Egg* as loot.
 
 On the other hand, completing a quest can sometimes award you items as well. If the quest is part of a quest line then you will also unlock follow-up quests too, so there is a self-recursive relationship there.
 
