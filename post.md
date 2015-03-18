@@ -142,7 +142,7 @@ WHERE
 RETURN fruit, tree, spot
 ```
 
-Again, we're apply pattern matching against our graph using the pattern `node<-[relationship1]-node-[relationship2]->node`. The expressive power of Cypher lies in the ability to take our relationship diagram above and translate it like-for-like into an executable query.
+Again, we're simply pattern matching against our graph using the pattern `node<-[relationship1]-node-[relationship2]->node`. The expressive power of Cypher lies in the ability to take our relationship diagram above and translate it like-for-like into an executable query.
 
 You might also noticed that I'm not filtering on any of the nodes by type here. This is because I know those relationships exists only between the specified types of nodes, hence it's safe for me to omit them.
 
