@@ -194,7 +194,7 @@ With our price model in full swing, we are able to:
 1. price baseline items based on factors such as scarcity
 2. price items that are derived from the baseline items
 
-Since the price of an item reflects the difficulty in obtaining it, we can make use of the relationships between quests and items to "price" quests the same way - i.e. the more expensive the items a quest require, the more difficult to complete that quest is.
+Since the price of an item reflects the difficulty in obtaining it, we can make use of the relationships between quests and items to "price" quests the same way - i.e. the more expensive the items a quest require, the more difficult that quest is to complete.
 
 From there, you can establish simple rules such as:
 * cheaper quests should come before more expensive ones, to ensure a sense of progression for the players
