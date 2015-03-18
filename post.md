@@ -112,7 +112,7 @@ RETURN i, rel, wb
 
 Couple of things to note from this query.
 * notice how we are basically pattern matching against the graph using the pattern `node-[relationship]->node`?
-* we capture the nodes and relationships in to variables `wb`, `i` and `rel` so we can `return` them from the query;
+* we capture the nodes and relationships into variables `wb`, `i` and `rel` so we can `return` them from the query;
 * we can optionally filter the nodes by type, e.g. `(i:BaseItem)` will only match against nodes that are of type `BaseItem`;
 * to identify *White Bread*, we also filter one of the nodes by the value of its properties, in this case the node `wb` must have a `Name` property with the value of `White Bread`;
 * we can use OR semantic when filtering on relationship types, here we're looking for relationships of type `CRAFTS` or `IS_USED_IN`;
