@@ -66,7 +66,7 @@ Looking beyond the immediate connections to *Bigfoot*, the *Alluring Goat* and *
 
 To make the *Alluring Goat*, you need to gather:
 * *Honey*, which you need to build a *Bee Hive* in your homestead and harvest from it;
-* *Goat*, which you can buy from animal traders in cities aroundthe world such as *London* and *NanJing*;
+* *Goat*, which you can buy from animal traders in cities around the world such as *London* and *NanJing*;
 * *Golden Hair*, which is a loot dropped by *Blonde Mermaid*, *Dandelion Pixie* and *Blonde Selkie*;
 * ...
 
