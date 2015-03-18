@@ -35,7 +35,7 @@ It's a complexity that we have to manage, but managing this complexity by hand i
 * subjective - what 'feels' right can vary greatly from person to person
 
 Instead, we opted for a more automated process whereby every item's **intrinsic value** in the game can be evaluated based on the values of its inputs (e.g. baits for monsters, ingredients for crafted items, etc.). The amount of time involved, and your chance of success is also taken into account.
-We can then use the intrinsic value of an item to drive or quantify other less tangible aspeects of the game's model.
+We can then use the intrinsic value of an item to drive or quantify other less tangible aspects of the game's model.
 
 This is where Neo4j comes in.
 
