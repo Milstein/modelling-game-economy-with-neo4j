@@ -271,7 +271,7 @@ Thankfully, **Neo4j makes this really easy**, which is important because wheneve
 
 I hope I have given you a flavour of our use case with Neo4j. In general I find graph databases to be the most powerful and naural way to model a domain, especially for domains with complex and/or highly connected datasets.
 
-Let me know how you liked this post in the review sections below, your feedbacks are much appreciated!
+Let me know how you liked this post in the review section below, your feedbacks are much appreciated!
 
 ## Links
 
