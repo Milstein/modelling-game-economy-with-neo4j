@@ -228,7 +228,7 @@ This places *Bigfoot* at the peak of its hierarchy.
 
 ![](http://theburningmonk.com/WordPress/wp-content/uploads/2015/03/bigfoot_hierarchy-e1426682877686.png)
 
-If you repeat the same exercise for every monster in the game and compose their hierarchy together, then you'll end up with a more complete monster hierarchy covering most of the monsters that exist in the game.
+If you repeat the same exercise for every monster in the game and compose their hierarchies together, then you'll end up with a more complete monster hierarchy covering most of the monsters that exist in the game.
 
 Once we have both the quest hierarchy and monster hierarchy we can do some interesting analysis. 
 
