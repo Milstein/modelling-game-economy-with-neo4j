@@ -182,7 +182,7 @@ RETURN q1, q2
 
 From the resulting graph, you can quickly see the quests that are unlocked by completing the *Year of the Horse* quest.
 
-In fact, if you connect all the quest in the game then you'll end up with the following.
+In fact, if you connect all the quests in the game then you'll end up with the following.
 
 ![](http://theburningmonk.com/WordPress/wp-content/uploads/2015/03/all_quest_graph.png)
 
